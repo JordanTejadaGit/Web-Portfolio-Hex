@@ -25,7 +25,7 @@ console.log(scrollY)
 
 window.addEventListener('scroll', () =>
 {
-
+    
     scrollY = window.scrollY
     const newSection = scrollY / experience.sizes.height
     if(newSection < currentSection)
