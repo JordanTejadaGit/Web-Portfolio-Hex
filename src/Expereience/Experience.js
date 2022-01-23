@@ -94,7 +94,7 @@ export default class Experience
                         break
                     case this.world.projects.mesh2:
                         if(this.newScroll > 5.4) {
-                            window.open('https://jordantejadagit.github.io/Calgary-Datasets/')
+                            window.open('https://github.com/JordanTejadaGit/Home-Inventory-Management')
                         }
                         break
                 }
